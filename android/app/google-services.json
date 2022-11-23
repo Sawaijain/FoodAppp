@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140625802446",
+    "project_id": "qwik-90127",
+    "storage_bucket": "qwik-90127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140625802446:android:e97a2e2b205ac44c0b0c9f",
+        "android_client_info": {
+          "package_name": "com.qwik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140625802446-c8fti2i4g7tp1onn89l9fes7njr8jouh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRtGJ9VgVlx5_cte5237K25N_Wt3rxZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140625802446-c8fti2i4g7tp1onn89l9fes7njr8jouh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
